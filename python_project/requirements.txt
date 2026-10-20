@@ -1,0 +1,5 @@
+# Core requirements for Text Processing System Using Python
+# BTech Computer Science Engineering Capstone Project
+# Python >= 3.10
+
+streamlit>=1.30.0,<2.0.0

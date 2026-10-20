@@ -1,0 +1,6 @@
+{
+  "name": "Text Processing System Using Python",
+  "description": "BTech Computer Science Engineering capstone project for string manipulation, character frequency analysis, and text comparison using Python and Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
